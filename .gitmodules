@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Rpcop"]
-	path = Rpcop
-	url = https://github.com/cran/Rpcop
 [submodule "mstclustering"]
 	path = mstclustering
 	url = https://github.com/cran/mstclustering
