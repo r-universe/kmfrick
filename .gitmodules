@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Rfuzzydid"]
+	path = Rfuzzydid
+	url = https://github.com/kmfrick/rfuzzydid
 [submodule "mstclustering"]
 	path = mstclustering
 	url = https://github.com/cran/mstclustering
