@@ -5,6 +5,9 @@
 [submodule "Rfuzzydid"]
 	path = Rfuzzydid
 	url = https://github.com/kmfrick/rfuzzydid
+[submodule "Rpcop"]
+	path = Rpcop
+	url = https://github.com/kmfrick/rpcop
 [submodule "mstclustering"]
 	path = mstclustering
 	url = https://github.com/cran/mstclustering
